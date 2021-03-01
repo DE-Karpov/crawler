@@ -1,0 +1,643 @@
+Strongly Typeda collection of facts, tidbits, and musings about our world and our industry https://www.braintreepayments.com/blog/Ghost 0.11Fri, 11 Dec 2020 22:45:10 GMT60 Tackling the Persistent Threat of Carding Attacks<p>This should be an exciting time for ecommerce merchants. As more of the world stays at home, the opportunities for ecommerce sales have rocketed. Global retail platforms have seen an unprecedented spike in traffic since the start of the year: up from 16 billion web visits in January to nearly</p> https://www.braintreepayments.com/blog/tackling-the-persistent-threat-of-carding-attacks/ae7d2887-9754-448d-be6f-a7f4413607c1Products + Design_Security_Fan ZhangTue, 03 Nov 2020 09:00:00 GMT<img src="http://www.braintreepayments.com/blog/content/images/2020/10/fotis-fotopoulos-DuHKoV44prg-unsplash.jpg" alt="Tackling the Persistent Threat of Carding Attacks"><p>This should be an exciting time for ecommerce merchants. As more of the world stays at home, the opportunities for ecommerce sales have rocketed. Global retail platforms have seen an unprecedented spike in traffic since the start of the year: up from 16 billion web visits in January to nearly 22 billion in June.<sup id="fnref:1"><a href="https://www.braintreepayments.com/blog/tackling-the-persistent-threat-of-carding-attacks/#fn:1" rel="footnote">1</a></sup>  However, where there’s money, there’s also cybercrime and fraud. </p>
+
+<p>Merchants have been hit hard by carding attacks over recent years, as fraudsters look to leverage the huge volumes of breached financial data up for sale on the cybercrime underground. The impact can go way beyond the cost of chargebacks. But with Fraud Protection, merchants have proven, enterprise-grade capabilities at their fingertips.</p>
+
+<h2 id="frombreachestocarding">From breaches to carding</h2>
+
+<p>In the U.S. alone, there were over 1,470 separate incidents reported by organizations last year, exposing almost 165 million records.<sup id="fnref:2"><a href="https://www.braintreepayments.com/blog/tackling-the-persistent-threat-of-carding-attacks/#fn:2" rel="footnote">2</a></sup>  What does this mean for fraud? It means a readymade supply of financial and identity data flooding the underground cybercrime economy. However, fraudsters need to know whether the card details that they’re buying are still usable, or if the rightful owner and/or issuer has already canceled them. </p>
+
+<p>This is where carding comes in. Fraudsters typically use bot scripts to automate the process of testing large numbers of stolen cards across various sites. Here’s what happens: <br>
+1. The fraudster procures a trove of card details from the dark web or other channels. <br>
+2. They use a bot to attempt to make small online purchases with the card data across multiple sites, in order to validate them. This could happen thousands of times until they are successful. <br>
+3. They filter the validated card details from the rest, and either use them for high-value fraudulent purchases or sell them onwards on another underground site.</p>
+
+<p>Unfortunately for merchants, this kind of activity can have a significant financial and reputational impact. It could lead to:</p>
+
+<ul>
+<li>Chargeback losses, after the customer complains to their bank that someone has made a purchase using their card.</li>
+<li>Lost revenue in terms of the fraudulently purchased products which may never be recovered.</li>
+<li>Reputational damage and potential customer attrition. Social media and review sites can amplify negative customer experiences today.</li>
+<li>Operational overheads associated with customer support and dealing with an incident.  </li>
+<li>Being placed on a card issuer’s fraud monitoring program.</li>
+</ul>
+
+<p>Of these negative outcomes, the latter is particularly serious for a smaller business as it can entail extra administrative overheads in the form of remediation plans that need to be filled out with the issuer. There could also be additional fees added to the merchant’s service agreement with the issuer while in the program, and even the chance that the merchant account can be closed if they remain in the program for several months.</p>
+
+<h2 id="enterfraudprotection">Enter Fraud Protection</h2>
+
+<p>Fortunately, Fraud Protection offers merchants an integrated and easy-to-manage solution that helps empower smaller businesses with enterprise-grade fraud prevention capabilities. Customized fraud filters are provided out-of-the-box, and filters stay optimized with continuous recommendations based on new transactions and evolving fraud.</p>
+
+<p>Most importantly, Fraud Protection has been proven to detect and block carding attacks — helping to reduce chargebacks and operational costs, and is designed to keep merchants out of issuer fraud monitoring programs. <br>
+For example:</p>
+
+<ul>
+<li>A game rental company’s previous fraud protection tool used to only decline about 1% of fraudulent transactions while the issuer was declining around 95%. Now the company is able to decline 75% of fraudulent transactions by using Fraud Protection, preventing a majority of bad transactions from being sent to the issuer and thereby improving the game rental company’s authorization rates.<sup id="fnref:3"><a href="https://www.braintreepayments.com/blog/tackling-the-persistent-threat-of-carding-attacks/#fn:3" rel="footnote">3</a></sup></li>
+<li>A marketing software company’s decline rate using another fraud tool was between 1-10%, while the issuer was declining 40-50%. Now with Fraud Protection, the company is able to decline about 20-30% of bad transactions before they get rejected by the issuer and result in authorization fees.<sup id="fnref:4"><a href="https://www.braintreepayments.com/blog/tackling-the-persistent-threat-of-carding-attacks/#fn:4" rel="footnote">4</a></sup></li>
+</ul>
+
+<p>As David Mattei, a Senior Analyst in the Fraud &amp; AML Practice at Aite Group recently said: “Fraud Protection is an easy-to-use solution to help protect small and medium size businesses from fraudulent transactions.”</p>
+
+<p>He continued to highlight that: “Leveraging the consortium insights into consumer risk enabled by PayPal’s 12 billion annual transactions and advanced machine learning, merchants can manage fraud without needing specialized expertise. The on-demand filter recommendations allow merchants to keep fraud strategies up-to-date with minimal effort.”</p>
+
+<p><a href="https://www.braintreepayments.com/features/fraud-tools">Fraud Protection</a> is available to all Braintree merchants, and can be easily enabled in the Fraud Management section of the Braintree Control Panel. For more information on Fraud Protection, check out our <a href="https://articles.braintreepayments.com/guides/fraud-tools/advanced/fraud-protection">guides</a>.</p>
+
+<div class="footnotes"><ol><li class="footnote" id="fn:1"><p>Statista (August 17, 2020) <a href="https://www.statista.com/statistics/1112595/covid-19-impact-retail-e-commerce-site-traffic-global/">https://www.statista.com/statistics/1112595/covid-19-impact-retail-e-commerce-site-traffic-global/</a> <a href="https://www.braintreepayments.com/blog/tackling-the-persistent-threat-of-carding-attacks/#fnref:1" title="return to article">↩</a></p></li>
+
+<li class="footnote" id="fn:2"><p>Statista (March 10, 2020) <a href="https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-states-by-number-of-breaches-and-records-exposed/">https://www.statista.com/statistics/273550/data-breaches-recorded-in-the-united-states-by-number-of-breaches-and-records-exposed/</a> <a href="https://www.braintreepayments.com/blog/tackling-the-persistent-threat-of-carding-attacks/#fnref:2" title="return to article">↩</a></p></li>
+
+<li class="footnote" id="fn:3"><p>Results are specific to this merchant. Other results may vary by industry, customer, and use case. <a href="https://www.braintreepayments.com/blog/tackling-the-persistent-threat-of-carding-attacks/#fnref:3" title="return to article">↩</a></p></li>
+
+<li class="footnote" id="fn:4"><p>Results are specific to this merchant. Other results may vary by industry, customer, and use case. <a href="https://www.braintreepayments.com/blog/tackling-the-persistent-threat-of-carding-attacks/#fnref:4" title="return to article">↩</a></p></li></ol></div> 2020 PSD2 Updates and Timelines<p><strong>PSD2’s Strong Customer Authentication (SCA) enforcement in Europe is just around the corner! Here’s what you can do to make sure that your checkout is ready for the new regulatory requirements.</strong></p>
+
+<h1 id="strongcustomerauthentication">Strong Customer Authentication</h1>
+
+<p>The SCA regulations set a new standard for online payments in Europe. For details</p> https://www.braintreepayments.com/blog/2020-psd2-updates-and-timelines/d59b7cc9-618b-42cc-9d67-5820066f41dbProducts + Design_Ryan ReganTue, 06 Oct 2020 19:30:21 GMT<img src="https://www.braintreepayments.com/blog/content/images/2019/06/blog_image_PSD2_exemptions.jpg" alt="2020 PSD2 Updates and Timelines"><p><strong>PSD2’s Strong Customer Authentication (SCA) enforcement in Europe is just around the corner! Here’s what you can do to make sure that your checkout is ready for the new regulatory requirements.</strong></p>
+
+<h1 id="strongcustomerauthentication">Strong Customer Authentication</h1>
+
+<p>The SCA regulations set a new standard for online payments in Europe. For details on the requirements and standards, take a look at our <a href="https://www.braintreepayments.com/blog/understanding-and-preparing-for-psd2-strong-customer-authentication/">previous blog</a> on the subject. What this ultimately means is that in order to accept card payments online, 3DS will need to be used to provide authentication. Specifically, if you accept debit/credit cards, Visa Checkout, Secure Remote Commerce, or Non-Network Tokenized Google Pay payment methods in the EEA, you’ll need to ensure that 3DS is ran in order to successfully process those payments.</p>
+
+<p>Other payment methods not mentioned, like Apple Pay and Network-Tokenized Google Pay payment methods, presently include SCA mechanisms as processed through Braintree, and do not require and additional 3DS call.</p>
+
+<h1 id="enforcement">Enforcement</h1>
+
+<p>The European Banking Authority’s (EBA) current end for the “migration period” for PSD2 SCA is December 31st, 2020, where it is expected that it will be broadly enforced by the EEA member states.</p>
+
+<p>Each country’s National Competent Authority (NCA) has flexibility regarding when and how to enforce the SCA requirement on its issuing banks. While it’s expected that enforcement will track with the migration period end date, issuers in each country may begin to decline payments falling in scope of the regulations before the end of the migration period.</p>
+
+<p><strong>The United Kingdom</strong></p>
+
+<p>The United Kingdom’s NCA, the Financial Conduct Authority, has <a href="https://www.fca.org.uk/firms/strong-customer-authentication">announced</a> that they will be delaying enforcement until at least June of 2021, with expectations to have issuers fully enforcing the regulations by September of that year. </p>
+
+<p>NCA’s are setting these ramp targets ahead of the December date to ensure that merchants and PSP’s can comply with the regulations</p>
+
+<h1 id="howwillregulationsbeenforced">How will regulations be enforced?</h1>
+
+<p>The regulatory bodies in Europe will largely be carrying out supervision of issuers within their national jurisdiction. As such, issuers will be under instruction to decline transactions that do not adhere to the SCA requirements. Fortunately, issuing banks have new specific decline codes that they can use to signal to merchants that transactions are being declined because of regulatory requirements, which Braintree has distilled to a single response code to use across card networks, <a href="https://developers.braintreepayments.com/reference/general/processor-responses/authorization-responses#code-2099">decline code 2099</a>: </p>
+
+<p><img src="https://www.braintreepayments.com/blog/content/images/2020/10/Picture1-1.png" alt="2020 PSD2 Updates and Timelines"></p>
+
+<p>Our recommendation is to use 3DS up-front for transactions whenever possible, however this decline code can be used to trigger a second transaction attempt with 3DS as a processing strategy as well. </p>
+
+<h1 id="whatdoineedtodo">What do I need to do?</h1>
+
+<p>To ensure there is not disruption to your checkout experience, we recommend that all European merchants:</p>
+
+<ol>
+<li>Confirm that you are using the latest version of the Braintree SDK’s where possible. <br>
+a) If you’re not sure, check in with your developer to see if your SDK is on the most recent version, which can be found by looking at the SDK’s respective changelog: <a href="https://github.com/braintree/braintree_ios/blob/master/CHANGELOG.md">iOS</a>, <a href="https://github.com/braintree/braintree_android/blob/master/CHANGELOG.md">Android</a>, <a href="https://github.com/braintree/braintree-web/blob/master/CHANGELOG.md#changelog">Web</a></li>
+<li>Review the 3DS 2 <a href="https://developers.braintreepayments.com/guides/3d-secure/migration/javascript/v3?refer=1687d6fdbd4375-0d08e36cfcadb-10316653-1aeaa0-1687d6fdbd514c7&amp;_ga=2.18691961.1772193486.1600955515-288864614.1548257320&amp;_gac=1.3402372.1597415353.EAIaIQobChMI-cTy8vOa6wIVdiCtBh2azAKzEAAYASAAEgJQjvD_BwE">Adoption Guide</a> and ensure you are collecting and passing the data points needed to qualify for a 3DS 2 authentication  </li>
+<li>Validate 3DS 2 readiness by sending at least one test transaction for each payment method available in the checkout flow. <br>
+a)    You can verify this by checking the presence of <a href="https://developers.braintreepayments.com/reference/response/transaction/#three_d_secure_info">three d secure info</a> in transaction response payloads, and/or checking for a <strong>3D Secure Information</strong> section in a transaction in the Control Panel. </li>
+</ol>
+
+<p><img src="https://www.braintreepayments.com/blog/content/images/2020/10/Picture2.png" alt="2020 PSD2 Updates and Timelines"></p> New Fraud Protection: Powered by PayPal and Braintree Network Intelligence and Industry-Recognized Machine Learning<p>Even prior to the global coronavirus outbreak, the incentives and opportunities for online payment fraud have become substantial. Last year ecommerce represented over 14% of total global retail sales, totaling more than $3.5 trillion dollars.<sup id="fnref:1"><a href="https://www.braintreepayments.com/blog/new-fraud-protection/#fn:1" rel="footnote">1</a></sup> </p>
+
+<p>Now with the impact of COVID-19 and the accelerated shift of socially-distanced consumers</p> https://www.braintreepayments.com/blog/new-fraud-protection/a096033d-3a66-421e-bcc2-ac5a43131663Products + Design_Chris SangerThu, 14 May 2020 08:00:00 GMT<img src="http://www.braintreepayments.com/blog/content/images/2020/05/Image_FraudProtection.jpg" alt="New Fraud Protection: Powered by PayPal and Braintree Network Intelligence and Industry-Recognized Machine Learning"><p>Even prior to the global coronavirus outbreak, the incentives and opportunities for online payment fraud have become substantial. Last year ecommerce represented over 14% of total global retail sales, totaling more than $3.5 trillion dollars.<sup id="fnref:1"><a href="https://www.braintreepayments.com/blog/new-fraud-protection/#fn:1" rel="footnote">1</a></sup> </p>
+
+<p>Now with the impact of COVID-19 and the accelerated shift of socially-distanced consumers to digital commerce channels, it's inevitable that incidents of online fraud and sophisticated schemes will continue to keep pace. For merchants, the increase in fraudulent transactions can mean a big decrease in revenue: <a href="https://www.businesswire.com/news/home/20190102005011/en">Juniper Research</a> predicts that global merchants will lose a combined $130 billion between 2019 and 2023 via card-not-present (CNP) fraudulent transactions.  </p>
+
+<p>Keeping up with fraud types and identifying effective solutions can be a daunting, time-consuming challenge as merchants are in business to sell their products and services, not fight fraud. Merchants are looking for tools to help on multiple fronts: to protect against losses from fraudulent credit card activity, to mitigate chargebacks, and to unblock revenue from overly aggressive or simplistic filters. In addition, such tools need to be sufficiently easy to navigate and use, allowing merchants to focus on their own core businesses.</p>
+
+<p>With merchants' needs top of mind, we are launching <strong>Fraud Protection</strong>. Fraud Protection gives merchants an integrated solution that leverages the deep intelligence of the PayPal and Braintree networks, a vast array of data analytics, and state-of-the-art machine learning. Fraud Protection adapts to changing fraud patterns and provides the flexibility to choose rules and filter settings specific to merchants' businesses. </p>
+
+<h2 id="datamakesthedifference">Data makes the difference</h2>
+
+<p>When it comes to fraud management solutions, the big differentiator is data. Why? Because more relevant data facilitates more automated learning that can be applied to risk decision-making. And with over 20 years of global data and risk decisions that are based on access to both buyer and seller sides of more than 12 billion transactions a year, PayPal and Braintree have a rich ecommerce and mobile dataset to learn from. </p>
+
+<p>In the case of Fraud Protection, that learning is applied to the process of evaluating transactions for suspected fraud. Fraud Protection aims to help merchants more easily view and manage the relationship between the fraud they catch in real-time and the chargebacks they may incur later. Finding the ideal operating point between fraud rejections and chargebacks requires a solution that learns from both and adjusts accordingly. Our machine learning capabilities balance those data results for optimal performance and were named best-in-class in an <a href="https://info.simility.com/Report-AiteMLReport_Mar19.html">independent study</a> of fraud and advanced machine learning platform vendors. </p>
+
+<h2 id="bettertransparencyandcontrolformerchants">Better transparency and control for merchants</h2>
+
+<p>Fraud Protection provides a foundational solution that’s easy to enable and configure. The initial set-up requires little effort and merchants can set their own operating points to control their experience:  </p>
+
+<ul>
+<li><p>Increased transparency and visualization: The dashboard presents a holistic view of Total Processing Volume reviewed by the tool, fraud rejections, and fraud chargeback value over time, plus transaction history for insights into fraud event triggers. </p></li>
+<li><p>Business-need customization: Fraud Protection unlocks personalized, out-of-the-box filters -- starting the very first day it’s enabled. Filters are based on a merchant’s total payment value, chargebacks, and age of the account, providing the best filter set based on past transactions and behaviors. </p></li>
+<li><p>Filter recommendations: As the tool gathers more data about a merchant’s business, it will recommend changes to filters to further optimize rejections and chargebacks. </p></li>
+<li><p>Real-time filter testing: Merchants can test and assess the impact of filter changes based on past transaction data before implementing the changes. </p></li>
+</ul>
+
+<h2 id="fraudprotectionisnowavailable">Fraud Protection is now available</h2>
+
+<p>Since June 2019, select merchants have been participating in our Fraud Protection pilot program with successful results. Pilot merchants in regions around the globe have realized fewer fraud rejections and chargebacks. </p>
+
+<p>Fraud Protection is now generally available to all Braintree merchants and is fully integrated into our platform.<sup id="fnref:2"><a href="https://www.braintreepayments.com/blog/new-fraud-protection/#fn:2" rel="footnote">2</a></sup> Merchants can easily enable the tool and access the new UI from the Braintree control panel to better protect their businesses from payment fraud.  </p>
+
+<p>If you have questions or want to learn more about Fraud Protection, <a href="https://www.braintreepayments.com/features/fraud-tools#information">contact us</a> or <a href="https://articles.staging.braintreepayments.com/guides/fraud-tools/advanced/fraud-protection">read more</a> on our website.  </p>
+
+<div class="footnotes"><ol><li class="footnote" id="fn:1"><p>eMarketer, June 2019 <a href="https://www.emarketer.com/content/global-ecommerce-2019">https://www.emarketer.com/content/global-ecommerce-2019</a>  <a href="https://www.braintreepayments.com/blog/new-fraud-protection/#fnref:1" title="return to article">↩</a></p></li>
+
+<li class="footnote" id="fn:2"><p>Minor integration changes may be required for existing Braintree customers to pass device data.  <a href="https://www.braintreepayments.com/blog/new-fraud-protection/#fnref:2" title="return to article">↩</a></p></li></ol></div> Actions to Assist Merchants Affected by CoronavirusWe know the spread of the coronavirus and its impact on the global economy has serious implications for your business. We are here to support you. https://www.braintreepayments.com/blog/actions-to-assist-merchants-affected-by-coronavirus/ed7f0e9b-2a69-4db2-97f2-e50675715da2News + Events_BraintreeWed, 08 Apr 2020 14:47:19 GMT<img src="http://www.braintreepayments.com/blog/content/images/2020/04/blog_image_globe.jpg" alt="Actions to Assist Merchants Affected by Coronavirus"><p>We know the spread of the coronavirus and its impact on the global economy has serious implications for your business. We are here to support you. </p>
+
+<p>On March 31, <a href="https://newsroom.paypal-corp.com/2020-03-31-PayPal-Takes-Action-to-Assist-Small-Businesses-Affected-by-Coronavirus">PayPal announced</a> a set of relief measures to help more than 24 million merchants around the world impacted by the coronavirus. We want to take a moment to share with Braintree merchants what these relief efforts may mean for your business.   </p>
+
+<p>To help alleviate the financial impacts you may be experiencing, Braintree has implemented the following measures, which may vary based on your account type, size, and other factors specific to each merchant:   </p>
+
+<h2 id="disputeautoresponseforrefundevidence">Dispute auto-response for refund evidence</h2>
+
+<p>We will automatically submit refund evidence on your behalf for chargebacks raised on US-based credit and debit card transactions greater than $30 USD, if you have not submitted evidence by the deadline. </p>
+
+<p>The automation of dispute response is a new functionality intended to help you manage the rising volume of disputes. This functionality will also help merchants who are receiving disputes on already-refunded transactions avoid potentially refunding the same customer twice. This does not guarantee that you will win the dispute, so we encourage you to continue to attach additional evidence to the dispute if available. </p>
+
+<p>This functionality went into effect on April 3, 2020 for merchants of all sizes processing in the US. The pilot program and duration of the program is subject to be changed or adjusted at any time, and we encourage you to respond to every dispute in the Control Panel or SDK/API integration. </p>
+
+<h2 id="chargebackfeewaivers">Chargeback fee waivers</h2>
+
+<p>For eligible Braintree merchants, primarily our hardest hit small and medium businesses, we have waived chargeback fees from April 1, 2020, through at least April 30, 2020.  </p>
+
+<p>To determine if your fees were waived, refer to your monthly account statement. </p>
+
+<h2 id="wereheretohelp">We’re here to help</h2>
+
+<p>We understand this may be a difficult time for businesses, and we want to do our part to support you. If you have any questions, don't hesitate to <a href="https://help.braintreepayments.com/">contact us</a>.</p> Refund Authorizations: API Updates and Sandbox TestingThe payments industry is moving to an authorization model for refund processing. Refund authorizations introduce real-time decline responses to refunds. https://www.braintreepayments.com/blog/refund-authorizations-api-updates-and-sandbox-testing/f9f574e9-bb8d-48e0-9fe3-4d7db8b984a4Products + Design_Tim WhickerWed, 12 Feb 2020 19:10:06 GMT<img src="https://www.braintreepayments.com/blog/content/images/2019/04/blog_image_refund_authorizations_o1.gif" alt="Refund Authorizations: API Updates and Sandbox Testing"><p><em>Update (June 9, 2020): Updated post to reflect sandbox availability.</em></p>
+
+<p>The payments industry is moving to an authorization model for refund processing. Refund authorizations introduce real-time decline responses to refunds. This blog post provides details on Braintree’s plans for refund-related API changes: we recommend that you review the technical changes outlined here as well as the guidelines in our <a href="https://www.braintreepayments.com/blog/refund-authorizations-processing-improvements-for-refunds/">previous post</a> to ensure your integration is prepared for refund declines. </p>
+
+<h2 id="technicalchanges">Technical changes</h2>
+
+<p>To reduce integration friction, Braintree will introduce two refund decline workflows. The workflow that you experience will depend on the SDK version your integration uses to connect to Braintree: new SDK versions or previous SDK versions.</p>
+
+<h3 id="newsdkversions">New SDK versions</h3>
+
+<p>In Q1 2020, Braintree will release the following new SDK versions:</p>
+
+<ul>
+<li>Ruby 3.0 or newer</li>
+<li>Python 4.0 or newer</li>
+<li>Java 3.0.0 or newer</li>
+<li>Node.js 3.0.0 or newer</li>
+<li>PHP 5.0.0 or newer</li>
+<li>.NET 5.0.0 or newer</li>
+</ul>
+
+<p>If your integration uses one of these new SDK versions, and the processor declines a refund, the response will have the processor response code available. The processor response code will pull from the existing pool of <a href="https://developers.braintreepayments.com/reference/general/processor-responses/authorization-responses#decline-codes">2000-class decline codes</a>, allowing you to determine the cause of the decline in real time. Common refund decline codes include:</p>
+
+<ul>
+<li>2004 - <em>Expired Card</em></li>
+<li>2005 - <em>Invalid Card Number</em></li>
+<li>2014 - <em>Fraud Suspected</em></li>
+<li>2047 - <em>Pick Up Card</em></li>
+</ul>
+
+<p>Note: GraphQL users will receive processor response codes for all refund declines.</p>
+
+<h3 id="previoussdkversions">Previous SDK versions</h3>
+
+<p>If your integration uses an SDK version older than those listed above, and the processor declines a refund, you will receive one of the following two <a href="https://developers.braintreepayments.com/reference/general/validation-errors/all#code-915200">validation errors</a> in lieu of a processor response code:</p>
+
+<ul>
+<li>Hard decline: 915200 - <em>Failed to refund transaction.</em></li>
+<li>Soft decline: 915201 - <em>Failed to refund transaction. Please try again at a later time.</em></li>
+</ul>
+
+<h2 id="sandboxtesting">Sandbox testing</h2>
+
+<p>These changes are currently available in the <a href="https://developers.braintreepayments.com/reference/general/testing/">Braintree sandbox</a>. We recommend testing refund declines so that you can prepare for the upcoming launch of refund authorizations. </p>
+
+<p>In order to simulate a refund decline in sandbox, follow these steps: <br>
+1. Simulate a successful sale using an amount between $3001.00-4000.99 <br>
+2. Submit the sale for settlement; once the transaction updates to a <em>Settled</em> or <em>Settling</em> status, it is eligible for a refund <br>
+3. Specify the sale’s transaction ID in a refund request <br>
+4. In order to simulate a refund decline, specify a refund amount between $2000-2999.99 <br>
+5. The amount specified will determine the decline code: for example, submitting a refund for $2004.00 will generate a decline response of 2004 - <em>Expired Card</em> if using a current SDK version</p>
+
+<h2 id="generalguidelines">General guidelines</h2>
+
+<p>Our <a href="https://www.braintreepayments.com/blog/refund-authorizations-processing-improvements-for-refunds/">previous post</a> provides a comprehensive list of rules and guidelines – here are a few key requirements:</p>
+
+<ul>
+<li>If the refund attempt is <a href="https://developers.braintreepayments.com/reference/general/processor-responses/authorization-responses#types-of-declines">hard declined</a>, do not reattempt the refund to the same card.</li>
+<li>If the initial refund attempt declines, you are permitted to refund an alternate card that matches the same card brand used to create the original sale. This reattempt must be performed via a <a href="https://articles.braintreepayments.com/control-panel/transactions/refunds-voids-credits#detached-credits">detached credit</a>.</li>
+<li>It is against scheme rules to refund a card that does not match the same brand used to create the sale. For example, you cannot refund a Mastercard if the original sale was created with a Visa card.</li>
+<li>If all attempts to refund the cardholder are declined, you are permitted to issue a refund via store credit, check, or alternative method, depending on your refund policy.</li>
+</ul>
+
+<h2 id="questions">Questions?</h2>
+
+<p>If you have any questions about these changes, <a href="https://help.braintreepayments.com/?issue=TransactionProcessingQuestion">contact us</a>. </p> American Express Settlement Amount EnhancementsBraintree has updated Amex processing to allow eligible merchants to settle for greater than the original authorization amount. https://www.braintreepayments.com/blog/american-express-settlement-amount-enhancements/339786d3-f394-4d7b-8b68-061b90fa9712Products + Design_Tim WhickerWed, 20 Nov 2019 17:17:47 GMT<img src="http://www.braintreepayments.com/blog/content/images/2019/11/amex-settlement.png" alt="American Express Settlement Amount Enhancements"><p>Braintree has updated Amex processing to allow eligible merchants to settle for greater than the original authorization amount. This functionality is available to merchants who utilize accounts obtained directly from Amex. Note: Amex does not support <a href="https://www.braintreepayments.com/blog/visa-authorization-adjustments-enhanced-tip-functionality/">auth adjustment</a> functionality.</p>
+
+<h2 id="merchantbenefits">Merchant benefits</h2>
+
+<ul>
+<li>Removes friction when processing tip adjustments, order adjustments, and rental extensions</li>
+<li>Minimizes the number of transactions per order</li>
+</ul>
+
+<h2 id="americanexpressrequirements">American Express requirements</h2>
+
+<p>Amex permits the following merchant categories to settle within designated thresholds, respective to the original authorization amount:</p>
+
+<ul>
+<li><p>Up to 20% tip/order adjustment:</p>
+
+<ul><li>4121 (taxicabs and rideshares)</li>
+<li>5812 (restaurants)</li></ul></li>
+<li><p>Up to 15% rental adjustment:</p>
+
+<ul><li>7011 (lodging)</li>
+<li>7512, 7513, and 7519 (vehicle rentals)</li></ul></li>
+</ul>
+
+<h2 id="technicalchanges">Technical changes</h2>
+
+<p>If you’d like to implement this functionality: <br>
+1. Confirm you fall within one of the merchant categories outlined above. <br>
+2. <a href="https://help.braintreepayments.com/?issue=TransactionProcessingQuestion">Contact us</a> to enable this feature <br>
+3. Update your integration to support increased <a href="https://developers.braintreepayments.com/reference/request/transaction/submit-for-settlement/ruby#arg.amount">submit for settlement amounts</a> in your API requests</p>
+
+<p>If a transaction is submitted with an amount that exceeds Amex’s 15% or 20% thresholds, Braintree will return the following validation error:</p>
+
+<p><a href="https://developers.braintreepayments.com/reference/general/validation-errors/all/ruby#code-91522">91522 - Settlement amount is too large</a></p>
+
+<p>If your settlement adjustment exceeds the allowed threshold, you should create a second authorization for the additional amount.</p>
+
+<h2 id="howdoesthisdifferfromauthadjustments">How does this differ from auth adjustments?</h2>
+
+<p>It is important to note that this American Express functionality is not the same as <a href="https://www.braintreepayments.com/blog/visa-authorization-adjustments-enhanced-tip-functionality/">Visa/Mastercard authorization adjustments</a>. While you may be able to settle American Express transactions for a larger amount than was originally authorized, the authorization amount itself will not change; the settlement attempt will not trigger an auth adjustment object or result in validation errors.</p>
+
+<h2 id="questions">Questions?</h2>
+
+<p>If you have any questions, <a href="https://help.braintreepayments.com/">contact us</a>.</p> Visa Updates for Merchants That Offer Trial SubscriptionsVisa is updating its rules on transactions for merchants that offer free trials or introductory promotions as part of an ongoing subscription service. https://www.braintreepayments.com/blog/visa-updates-for-merchants-that-offer-trial-subscriptions/0e274533-4427-4094-9c37-5ad6976d0c86Products + Design_Tim WhickerTue, 29 Oct 2019 19:45:03 GMT<img src="http://www.braintreepayments.com/blog/content/images/2019/10/blog-visa-subscriptions.jpg" alt="Visa Updates for Merchants That Offer Trial Subscriptions"><p>To enable greater transparency for customers, Visa is updating its rules related to transactions for merchants that offer free trials or introductory promotions as part of an ongoing subscription service. Starting on the enforcement date of April 18, 2020, Visa will require merchants to provide specific information and resources to cardholders regarding subscription services. <a href="https://usa.review.visa.com/content/dam/VCOM/global/support-legal/documents/visa-new-subscription-rules-flier.pdf">These updates</a> are intended to keep cardholders better informed about their purchases. This increased transparency may also help lower chargebacks. </p>
+
+<h2 id="visarequirements">Visa requirements</h2>
+
+<p>Here’s the breakdown of the Visa requirements that go into effect on April 18, 2020:</p>
+
+<ul>
+<li>Merchants must obtain cardholder consent before entering them into a subscription service.</li>
+<li>Merchants must provide cardholders a copy of their terms and service conditions at the point of enrollment. Enrollment is considered the point at which the cardholder signs up for a trial or promotional period. These terms must include the following:
+<ul><li>Cardholder confirmation entering them into the subscription service</li>
+<li>Subscription start date</li>
+<li>Details of goods/services</li>
+<li>Transaction amounts and billing date/frequency</li>
+<li>Link or simple mechanism to cancel the subscription online</li></ul></li>
+<li>Merchants must notify cardholders at least 7 days before the cardholder’s trial or promotional period expires.</li>
+<li>Merchants must enhance the descriptor of the subscription transaction that immediately follows a trial or promotional period to include a trial reference.</li>
+<li>For each subscription transaction, merchants must provide a receipt that includes the following details:
+<ul><li>Trial or promotional details (if applicable)</li>
+<li>Transaction date and amount, even if the trial or promotion lowers the initial transaction amount to $0</li>
+<li>Link or simple mechanism to cancel the subscription online</li></ul></li>
+</ul>
+
+<h2 id="requiredtechnicalchanges">Required technical changes</h2>
+
+<p>If you use Braintree subscriptions, we recommend making these technical changes to comply with Visa’s new requirements:</p>
+
+<ul>
+<li>Include a reference to the trial or promotional period in the <a href="https://developers.braintreepayments.com/reference/request/subscription/create/ruby#descriptor.name">descriptor name of the subscription.create call</a>. The words “trial period”, “promotional period”, “free trial”, or anything similar are permitted. When the subscription becomes active, Braintree will include the enhanced descriptor in the first subscription transaction.</li>
+<li>After the first subscription is successfully processed, <a href="https://developers.braintreepayments.com/reference/request/subscription/update/ruby#descriptor.name">remove the trial reference from the descriptor name via a subscription.update call</a>. Subsequent subscriptions will process without trial or promotional references.</li>
+</ul>
+
+<p>If you use custom subscription logic, we recommend making these technical changes to comply with Visa’s new requirements:</p>
+
+<ul>
+<li>Update the <a href="https://developers.braintreepayments.com/reference/request/transaction/sale/ruby#descriptor.name">descriptor name in the transaction.sale call</a> to include a trial or promotional reference.</li>
+<li>For subsequent subscription transactions, remove the trial reference from your descriptors.</li>
+</ul>
+
+<h2 id="questions">Questions?</h2>
+
+<p>For more information about subscriptions, check out our <a href="https://developers.braintreepayments.com/guides/recurring-billing/overview">Recurring Billing guide</a>. If you have any questions, <a href="https://help.braintreepayments.com/?issue=RecurringBillingQuestion">contact us</a>.</p> SCA Transition Period: What Is It? And What Does It Mean for Merchants?The new SCA enforcement date of December 31, 2020 means that merchants may have extra time to prepare. But what exactly is the transition period? https://www.braintreepayments.com/blog/sca-transition-period-what-is-it-and-what-does-it-mean-for-merchants/cff092f2-9b81-4db3-a2f9-a66dfffb32e6The Payments Space_Avi ReddyThu, 24 Oct 2019 15:14:43 GMT<img src="http://www.braintreepayments.com/blog/content/images/2019/10/sca-transition-header--1-.png" alt="SCA Transition Period: What Is It? And What Does It Mean for Merchants?"><p>Last week, the European Banking Authority (EBA) <a href="https://eba.europa.eu/eba-publishes-opinion-on-the-deadline-and-process-for-completing-the-migration-to-strong-customer-authentication-sca-for-e-commerce-card-based-payment">published its opinion</a> on the deadline and process for completing the migration to Strong Customer Authentication (SCA). The new date that the EBA recommends the requirements will begin to be enforced by national regulators is December 31, 2020. </p>
+
+<p>This unified transition period means that merchants are expected to have additional time to prepare for enforcement. But what exactly is the transition period? And what does it mean for everyone involved?</p>
+
+<h2 id="scaenforcementaquickrecap">SCA enforcement: a quick recap</h2>
+
+<p>As you may recall, the original date that the EBA identified for enforcement was September 14, 2019. But it was widely known (at least among those closely watching this situation) that there was limited readiness for <a href="https://www.braintreepayments.com/li/resources/what-is-3d-secure-2">3D Secure 2</a> (3DS2), the industry-standard solution for meeting strong customer authentication requirements. And that limited readiness was not just on the part of merchants: payments service providers, issuers, acquirers, and payment networks were all scrambling to prepare. That’s likely why nearly every country in the European Economic Area (EEA) announced its support of some kind of an extension. Now, a little over a month later, the EBA has agreed, recommending a 14-month pan-European transition period for SCA enforcement. </p>
+
+<p>The EBA made the right decision. To begin enforcing SCA on the original date would have not only been detrimental to the very cardholders the requirements were meant to protect, but may have had widespread negative economic impacts due to SCA-related declines. But the transition period doesn’t let merchants -- or the entire payments ecosystem -- off the hook. SCA is still coming, and next time everyone will need to be ready or face the consequences. </p>
+
+<h2 id="whatexactlydoestransitionperiodmean">What exactly does ‘transition period’ mean?</h2>
+
+<p>By calling this a transition period, the implication is that everyone is moving toward a common deadline, at which point the switch will flip and issuers will all begin to enforce SCA. But the reality is more nuanced. From now until December 31, 2020, individual issuers in specific markets may begin to enforce SCA requirements <em>at any time</em>. That means merchants whose transactions pass through an enforcing issuer will risk increased declines if they do not authenticate according to the requirements. </p>
+
+<h2 id="whatdomerchantsneedtodo">What do merchants need to do?</h2>
+
+<p>To be prepared for and help reduce the risk of declines during this period of potentially disparate authentication requirements, we strongly recommend you integrate and begin testing <a href="https://www.braintreepayments.com/li/features/3d-secure">Braintree’s 3DS2 solution</a> as soon as possible. Our flexible solution has been built to support both 3D Secure 1 and 2 authentication protocols, meaning if a particular issuer isn’t ready to support 3DS2, Braintree will automatically divert your transactions to 3DS1 to help ensure your transactions are SCA compliant. It will also tell you whether SCA is even required by a certain country, so you can make an informed decision on whether to invoke 3DS for your customers.</p>
+
+<h2 id="awordonexemptions">A word on exemptions</h2>
+
+<p>The transition period does not change anything when it comes to exemptions. Issuers, not regulators, have the final decision of whether or not to accept exemption requests or require SCA on any given transaction. <a href="https://www.braintreepayments.com/blog/psd2-sca-requirements-a-closer-look-at-exemptions/">As we’ve mentioned before</a>, Braintree’s 3DS2 solution will have the capability to pass flags and indicators when an exemption is requested -- in other words, we will accommodate exemptions if merchants decide to use them. But it’s important to remember that by obtaining an exemption, merchants will miss out on any potential liability shift to the issuer and also likely give up any recourse to successfully challenge disputed transactions.</p>
+
+<h2 id="closingthoughts">Closing thoughts</h2>
+
+<p>While we hope that the EBA’s opinion will promote issuers and acquirers to handle things at least somewhat synchronously, being prepared sooner rather than later is the best thing merchants can do to minimize disruption. By testing and having the code ready to deploy -- even if you do not authenticate transactions now -- merchants can address any unforeseen reactions in any given market before SCA requirements are enforced.</p>
+
+<h2 id="merchantresources">Merchant resources</h2>
+
+<p>For instructions on how to integrate, refer to our <a href="https://developers.braintreepayments.com/guides/3d-secure/overview">3D Secure developer docs</a>.</p>
+
+<p>If you have already integrated 3DS, make sure you have the latest SDK with the most up-to-date features. For details, refer to our <a href="https://developers.braintreepayments.com/guides/3d-secure/migration/javascript/v3">3DS2 migration guide</a>.</p>
+
+<p>To see how SCA will apply to different transaction types, including recurring transactions, read <a href="https://www.braintreepayments.com/resources/how-sca-applies-to-common-payment-scenarios">How SCA Applies to Common Payment Scenarios</a>.</p>
+
+<p>If you are still unclear about the details of SCA, or would like an overview on the mandate and its requirements, read <a href="https://www.braintreepayments.com/resources/psd2-strong-customer-authentication-explained">PSD2: Strong Customer Authentication Explained</a>.</p>
+
+<p>For more information on the background and benefits of the 3DS2 protocol, as well as how Braintree’s solution works, read <a href="https://www.braintreepayments.com/resources/what-is-3d-secure-2">3D Secure 2: Next-generation Authentication</a>.</p>
+
+<p>As always, we’re here to help. If you have questions or need help with your integration, <a href="https://help.braintreepayments.com/?issue=PSD2Help&amp;_ga=2.48808485.202751583.1569863087-1704365464.1564432772">contact us</a>.</p> Strong Customer Authentication in Australia: Understanding AusPayNet’s CNP Fraud Mitigation FrameworkIn an effort to combat increase in online card fraud, the Australian Payments Network have issued new rules surrounding Strong Customer Authentication. https://www.braintreepayments.com/blog/strong-customer-authentication-in-australia-understanding-auspaynets-cnp-fraud-mitigation-framework/2afea7d8-6959-4206-961e-a13de07870f1The Payments Space_BraintreeFri, 04 Oct 2019 18:32:54 GMT<img src="http://www.braintreepayments.com/blog/content/images/2019/09/Blog_Image_09.17.19_SCA_AU.png" alt="Strong Customer Authentication in Australia: Understanding AusPayNet’s CNP Fraud Mitigation Framework"><p>Thanks to EMV chip technology, Australian merchants have enjoyed a significant reduction of fraudulent in-person credit card transactions, with losses from counterfeit/skimming fraud at their lowest since 2006.<sup id="fnref:1"><a href="https://www.braintreepayments.com/blog/strong-customer-authentication-in-australia-understanding-auspaynets-cnp-fraud-mitigation-framework/#fn:1" rel="footnote">1</a></sup></p>
+
+<p>However, that doesn't mean credit card fraud went away. As in-person fraud became more difficult, criminals shifted their efforts to the digital realm and began focusing on what’s known as Card-Not-Present (CNP) fraud. As a result, almost 85% of all credit card fraud in Australia now takes place online.<sup id="fnref:2"><a href="https://www.braintreepayments.com/blog/strong-customer-authentication-in-australia-understanding-auspaynets-cnp-fraud-mitigation-framework/#fn:2" rel="footnote">2</a></sup></p>
+
+<p>In an effort to combat this considerable increase in online card fraud, the Australian Payments Network <a href="https://auspaynet.com.au/">(AusPayNet)</a> recently issued new rules requiring Strong Customer Authentication (SCA) for merchants identified as “high-risk.” Here's how those rules may impact your business.</p>
+
+<h2 id="combatingfraudwithsca">Combating fraud with SCA</h2>
+
+<p>You may already be familiar with <a href="https://www.braintreepayments.com/resources/psd2-strong-customer-authentication-explained">SCA as a part of Europe's PSD2 regulations</a>. Under that mandate, applicable transactions are required to have two independent authentication factors performed in order to be approved. These factors are categorized in three ways: "knowledge," as represented by something like a password or PIN; "possession" of something, like a device or card; and "inherence," as proven by a fingerprint or other biometric. As a global standard, SCA is a key element in AusPayNet's efforts to mitigate CNP fraud.</p>
+
+<h2 id="howthefraudmitigationframeworkworks">How the fraud mitigation framework works</h2>
+
+<p>In its <a href="https://www.auspaynet.com.au/sites/default/files/2019-06/CNP_Fraud_Mitigation_Framework_Summary.pdf">CNP Fraud Mitigation Framework</a>, AusPayNet defined new fraud thresholds that merchants and issuers are required to meet. AusPayNet set the initial fraud threshold for merchants at 20 basis points (0.20% of CNP transaction value) and $50,000 in fraudulent CNP losses per quarter, while the initial fraud threshold for issuers was set at 15 basis points (0.15% of CNP transaction value). </p>
+
+<p>Merchants with fraud rates below those levels are not required to apply SCA to any transactions. Merchants unable to meet that threshold for two consecutive quarters will be deemed “high-risk” and will be required to apply SCA to most transactions. Low-risk transaction types such as recurring payments, trusted customers, and wallet transactions are also exempt from SCA requirements regardless of whether or not a merchant has been deemed “high risk.”</p>
+
+<h2 id="keydates">Key dates</h2>
+
+<p>The new rules went into effect on July 1, 2019, with acquirers reporting on merchant data chargebacks as of Q2 2019. Currently, enforcement is scheduled to begin on December 31, 2019.</p>
+
+<h2 id="whatsnextforhighriskmerchants">What's next for ‘high-risk’ merchants?</h2>
+
+<p>Braintree has already begun reporting on chargeback rates in order to remain compliant with AusPayNet's CNP Fraud Mitigation Framework. Any Braintree merchant that has been identified as “high-risk” will be contacted to discuss how to <a href="https://www.braintreepayments.com/features/3d-secure">integrate 3D Secure</a> (3DS), the solution we recommend to perform SCA on transactions acquired in Australia.</p>
+
+<p>If you are contacted, it’s important to integrate 3DS as soon as possible. “High-risk” merchants that neglect to use 3DS to authenticate transactions risk an increase in declines. Continued failure to apply SCA to applicable transactions could lead to a scenario in which the merchant’s acquirer demands that the merchant’s payments processor (i.e., Braintree) stop processing for that merchant altogether. </p>
+
+<h2 id="questions">Questions?</h2>
+
+<p>As the commerce platform for large and fast-growing enterprises that are building the most innovative commerce experiences globally, Braintree is committed to keeping you informed about the latest news and information regarding SCA requirements in Australia. If you have questions about the CNP Fraud Mitigation Framework or <a href="https://www.braintreepayments.com/features/3d-secure">Braintree’s 3DS solution</a>, <a href="https://help.braintreepayments.com/">contact us</a>.</p>
+
+<div class="footnotes"><ol><li class="footnote" id="fn:1"><p><a href="https://www.auspaynet.com.au/sites/default/files/2018-08/AustralianPaymentCardFraud-2018-Report.pdf">Australian Payment Card Fraud 2018</a>, Australian Payments Network, 2018. <a href="https://www.braintreepayments.com/blog/strong-customer-authentication-in-australia-understanding-auspaynets-cnp-fraud-mitigation-framework/#fnref:1" title="return to article">↩</a></p></li>
+
+<li class="footnote" id="fn:2"><p>IBID. <a href="https://www.braintreepayments.com/blog/strong-customer-authentication-in-australia-understanding-auspaynets-cnp-fraud-mitigation-framework/#fnref:2" title="return to article">↩</a></p></li></ol></div> Changes to Braintree’s IP Addresses Are ComingAs part of our effort to increase stability and extend our global footprint, we are introducing more IP addresses in addition to the ones we currently use. https://www.braintreepayments.com/blog/changes-to-braintrees-ip-addresses-are-coming/590cbc0c-bcf3-4d72-88ba-191f4cec0dd4Products + Design_Joshua KnoxWed, 02 Oct 2019 13:08:39 GMT<img src="http://www.braintreepayments.com/blog/content/images/2019/10/Blog_Image_10-19_IPwhitelist.jpg" alt="Changes to Braintree’s IP Addresses Are Coming"><p><em>Update (February 27, 2020): Updated production rollout date.</em></p>
+
+<p>As part of Braintree’s effort to increase stability and extend our global footprint, we are expanding our IP space to accommodate new endpoints – introducing more IP addresses in addition to the ones we currently use. </p>
+
+<p>In 2020, Braintree will update the <a href="https://developers.braintreepayments.com/reference/general/braintree-ip-addresses">IP addresses</a> we use for sandbox and production API traffic. If you whitelist Braintree IP addresses in your integration, you must include these new IP addresses to ensure that you will be able to process payments. </p>
+
+<h2 id="whenwillthechangestakeplace">When will the changes take place?</h2>
+
+<p>The new set of IP addresses will take effect in production on April 6, 2020. The new IP addresses are already live in sandbox. We’re sharing this information in advance so that you have time to review your integration and make any updates needed to avoid processing interruption.</p>
+
+<h2 id="whatschanging">What’s changing?</h2>
+
+<p>We are adding new IP addresses. Our existing IP addresses will not change. This update could impact your ability to process payments if your server administrator or IT security team maintains an allowlist (i.e. whitelist) of IP addresses for Braintree API traffic.  </p>
+
+<p>We have already updated the <a href="https://developers.braintreepayments.com/reference/general/braintree-ip-addresses">Braintree IP Addresses</a> page in our developer docs to reflect this new set of endpoints. Additionally, we’ve published this new list in JSON format to <a href="https://assets.braintreegateway.com/json/ips.json">https://assets.braintreegateway.com/json/ips.json</a>. </p>
+
+<p>If we add more IP addresses again in the future, we will update this JSON and the Braintree IP Addresses page in advance. </p>
+
+<p>Note: this change does not impact <a href="https://articles.braintreepayments.com/risk-and-security/whitelisting">IP and hostname restrictions configured through the Braintree Control Panel</a>. </p>
+
+<h2 id="whatactionisrequired">What action is required?</h2>
+
+<p>If you do not whitelist Braintree IP addresses, or if you only use <a href="https://articles.braintreepayments.com/risk-and-security/whitelisting">IP and hostname restrictions in the Braintree Control Panel</a>, no action is required from you.</p>
+
+<p>If you do whitelist Braintree IP addresses in your integration, you must include these new addresses before April 6, 2020 to ensure that you will be able to process transactions. You can update your whitelist now or at anytime before April 6 using the new list – you should not wait until the IP address change officially takes effect.</p>
+
+<h2 id="whatsanipaddresswhitelist">What’s an IP address whitelist?</h2>
+
+<p>A whitelist provides access to specified IP addresses and programs when your security policy would otherwise prevent that access. Whitelisting domains or IP addresses can be useful, but it comes with additional overhead and complication. It’s also worth noting that our IP addresses are always subject to change. For more information, see <a href="https://developers.braintreepayments.com/reference/general/braintree-ip-addresses">Braintree IP Addresses</a>.</p>
+
+<p>If you’re unsure if you are whitelisting Braintree IP addresses, we recommend checking with your server administrator or IT security team. Because whitelists are maintained on your end, we are unable to confirm that for you.</p>
+
+<p>If you have any questions, <a href="https://help.braintreepayments.com/">contact us</a>.</p> Mastercard's Chargeback and Fraud Monitoring ProgramsThis post is meant to be a comprehensive source for the Mastercard chargeback and fraud programs, along with upcoming changes that may impact your account. https://www.braintreepayments.com/blog/mastercards-chargeback-and-fraud-monitoring-programs/9e78197a-f5ab-4273-817d-1a4b312e5f8fProducts + Design_Megan SaylorMon, 30 Sep 2019 19:52:01 GMT<img src="http://www.braintreepayments.com/blog/content/images/2019/09/blog_image_mastercard_regulations.png" alt="Mastercard's Chargeback and Fraud Monitoring Programs"><p>The payments industry is ever-evolving and card brands are frequently implementing changes to make the payments space more secure. Visa recently rolled out some significant changes to their chargeback and fraud programs in the fall of 2019, which you can read about in our <a href="https://www.braintreepayments.com/blog/updates-to-the-visa-chargeback-and-fraud-monitoring-programs/">blog post</a>. Now, Mastercard is implementing some changes of their own regarding their monitoring programs. This blog is meant to keep merchants updated of these changes and provide a comprehensive source for Mastercard chargeback and fraud programs, along with upcoming changes that may impact your account.</p>
+
+<h2 id="overview">Overview</h2>
+
+<p>Effective October 2019, Mastercard is implementing a brand-new fraud monitoring program, called the Excessive Fraud Merchant Compliance Program (EFM). The goal of this program is to reduce the amount of ecommerce fraud globally.</p>
+
+<p>Mastercard’s chargeback monitoring program is called the Excessive Chargeback Program (ECP). It contains two tiers of program thresholds (CMM and ECM) and your account will fall into one or the other, depending on the severity of the chargeback issue. Just as with their fraud program, the goal of this program is to reduce chargebacks -- due to either fraud or consumer dispute reasons -- and improve the payment experience. This program is not new and there are no changes to this program at this time. </p>
+
+<h2 id="excessivefraudmerchantefm">Excessive Fraud Merchant (EFM)</h2>
+
+<p>Mastercard identifies merchant activity at the merchant account level. If a merchant account meets the following conditions in a calendar month, they can be placed in the EFM program:</p>
+
+<ul>
+<li>At least 1,000 Mastercard sales transactions in the previous month</li>
+<li>At least $50,000 in Mastercard fraud chargebacks under reason codes:
+<ul><li>4837 (No Cardholder Authorization)</li>
+<li>4863 (Cardholder Does Not Recognize -- Potential Fraud)</li></ul></li>
+<li>At least 0.50% fraud chargebacks-to-sales ratio</li>
+<li>Less than 10% of volume passing through 3D Secure in non-regulated countries or less than 50% of volume passing through 3D Secure in regulated countries</li>
+</ul>
+
+<p>Non-regulated countries refers to countries without a legal or regulatory requirement for strong cardholder authentication (e.g. US, Canada, some European countries). Regulated countries refers to countries with legal or regulatory requirements for strong cardholder authentication (e.g. some European and APAC countries). </p>
+
+<p>Once in the EFM program, the account is eligible for the fines as shown in the table below. However, while the program is rolling out in October 2019, Mastercard will not start assessing these fines until March 2020 for most regions. The exception is Canada, who will not receive fine assessments until October 2020. </p>
+
+<p><img src="https://www.braintreepayments.com/blog/content/images/2019/09/blog_image_mastercard_regulations_graph.png" alt="Mastercard's Chargeback and Fraud Monitoring Programs"></p>
+
+<p>To be removed from the EFM program, a merchant must be in compliance for three consecutive months, meaning the account did not meet the criteria listed above to be flagged in the program. Once a merchant exits the EFM program, any subsequent flagging would start over at Month 1 again. While enabling 3D Secure is not a requirement of this program, it is recommended to help mitigate fraud by authenticating transactions. </p>
+
+<h2 id="excessivechargebackprogramecp">Excessive Chargeback Program (ECP)</h2>
+
+<p>Just as with the EFM program, merchants are identified in the Mastercard chargeback program at the merchant account level. Mastercard calculates chargeback ratios by taking the total number of first chargebacks received in a given calendar month and dividing it by the prior month’s sales.</p>
+
+<p><em>For example: June’s chargebacks / May’s sales</em></p>
+
+<p>There are two different thresholds in Mastercard’s ECP program in which a merchant could be identified. Those are:</p>
+
+<h3 id="chargebackmonitoredmerchantcmm">Chargeback Monitored Merchant (CMM)</h3>
+
+<p>A merchant can be placed in the CMM program when the following criteria is met in a calendar month: </p>
+
+<ul>
+<li>First chargebacks received: 100</li>
+<li>Chargeback-to-sales ratio: 1.0%</li>
+</ul>
+
+<p>There are no fine assessments at the CMM level. </p>
+
+<h3 id="excessivechargebackmerchantecm">Excessive Chargeback Merchant (ECM)</h3>
+
+<p>A merchant can be placed in the ECM program when the following criteria is met in a calendar month: </p>
+
+<ul>
+<li>First chargebacks received: 100</li>
+<li>Chargeback-to-sales ratio: 1.5% for two consecutive months</li>
+</ul>
+
+<p>Mastercard can assess fines the first month a merchant enters the ECM program. These fines are assessed at the discretion of Mastercard and, in general, can be up to the total amount of Mastercard confirmed chargebacks in the ECM identification. For example, if your account had $5,000 in confirmed Mastercard chargebacks in your ECM identification, this fine would not exceed $5,000. </p>
+
+<p>To be removed from the ECP, a merchant must be below CMM thresholds, which is 100 chargebacks and 1.0% chargeback to sales ratio, for two consecutive months. Once a merchant exits the ECP they begin a clean slate, and any subsequent flaggings would start their standings from the beginning.</p>
+
+<h2 id="otherconsiderations">Other considerations</h2>
+
+<p>If a merchant breaches the thresholds for both the Excessive Fraud Merchant (EFM) program and the Excessive Chargeback Program (ECP), they would be entered into the EFM program and not the ECP. </p>
+
+<p>For merchants that have their merchant accounts through Braintree, our Disputes team will notify you if you’re flagged in any of the above programs, work with you to reduce the chargeback or fraud activity, and remediate your account out of the program. You can read more about this process in our <a href="https://www.braintreepayments.com/blog/understanding-chargeback-ratios-and-how-braintree-can-help-you-reduce-them/">blog post</a>. </p>
+
+<p>Mastercard may request a remediation plan along with any of these program identifications. The purpose of a remediation plan is to show Mastercard that steps are being taken to mitigate fraud and chargebacks. We’ll ask for the following details, but you may also share any additional information you find pertinent to the activity:</p>
+
+<ol>
+<li>Business Description  </li>
+<li>Events leading to the increased chargeback and fraud  </li>
+<li>Actions taken to reduce chargebacks and fraud, including implementation dates  </li>
+<li>Description of all fraud tools currently enabled</li>
+</ol>
+
+<h2 id="commonquestions">Common Questions</h2>
+
+<h3 id="howdoesmastercardcalculatefinesfortheecp">How does Mastercard calculate fines for the ECP?</h3>
+
+<p>Fines can be assessed the first month the account reaches ECM thresholds. The formula is:</p>
+
+<p><em>$100 Reporting Fee + Issuer Recovery + Violation Assessment</em></p>
+
+<p>This means there is no set fine amount for each ECM identification. However, the fine assessment will not be more than the total amount disputed in the ECM identification as referenced above. </p>
+
+<h3 id="howcanicalculatemymastercardchargebackratio">How can I calculate my Mastercard chargeback ratio?</h3>
+
+<p>Check out <a href="https://www.braintreepayments.com/blog/understanding-chargeback-ratios-and-how-braintree-can-help-you-reduce-them/">our blog post</a> that reviews how merchants can calculate their ratios, and how Braintree can help reduce them. </p>
+
+<h3 id="whydomynumbersvaryfromwhatmastercardreported">Why do my numbers vary from what Mastercard reported?</h3>
+
+<p>Chargeback numbers displayed in the Control Panel are considered estimates, as these will differ from the card network’s official figures due to multiple factors, including but not limited to timing differences in reporting, auto-representation, and multiple merchant processors. </p>
+
+<h3 id="dowonchargebackscountagainstmymastercardratio">Do won chargebacks count against my Mastercard ratio?</h3>
+
+<p>Yes. Regardless of outcome, if a chargeback opens, it is counted against the ratio. </p>
+
+<h3 id="areprearbitrationsandretrievalscountedintheecp">Are pre-arbitrations and retrievals counted in the ECP?</h3>
+
+<p>No. Only first chargebacks count against the ratio. </p>
+
+<h3 id="dochargebacksreceivedonalreadyrefundedtransactionscounttowardsmyratio">Do chargebacks received on already refunded transactions count towards my ratio?</h3>
+
+<p>Yes. If a chargeback opens against any transaction, it is counted against the ratio, even if the transaction was previously refunded. </p>
+
+<h3 id="someofthechargebacksireceivedthismonthwereontransactionsprocessedmonthsagowhatmontharethesecountedinmychargebackcount">Some of the chargebacks I received this month were on transactions processed months ago. What month are these counted in my chargeback count?</h3>
+
+<p>Chargebacks are counted in the month they are raised, not when the transaction was processed. Many times, chargebacks are raised in the months after they were processed. </p>
+
+<h3 id="aretheprogramfinesincludedinmybraintreechargebackfee">Are the program fines included in my Braintree chargeback fee?</h3>
+
+<p>No. Program fines issued by Mastercard are supplemental fees which are not included in the chargeback fee. </p>
+
+<h3 id="canichangehowmastercardcalculatesmychargebackandfraudrates">Can I change how Mastercard calculates my chargeback and fraud rates?</h3>
+
+<p>No. By choosing to process Mastercard credit and debit cards, merchants agree to their mandated rules and regulations. </p>
+
+<p>If you have any questions, <a href="https://help.braintreepayments.com/">reach out to us</a> at any time. </p> Introducing Hardware Two-Factor AuthenticationBraintree now supports hardware two-factor authentication (H2FA) in the Control Panel, providing a new way for merchants to help keep their accounts secure. https://www.braintreepayments.com/blog/introducing-hardware-two-factor-authentication/05e8c7d8-ea7f-41f5-a2ed-d067724b3195Products + Design_Security TeamMon, 26 Aug 2019 16:54:45 GMT<img src="http://www.braintreepayments.com/blog/content/images/2019/08/2fa-key-header.png" alt="Introducing Hardware Two-Factor Authentication"><p>Braintree has supported SMS and authenticator app two-factor authentication in the Control Panel since 2015. As part of our ongoing mission to keep your data secure, Braintree is pleased to announce that we now support hardware two-factor authentication (H2FA) in the Control Panel, providing a new way for merchants to help keep their accounts secure. In this blog post, we’ll outline how merchants can get started with H2FA.</p>
+
+<p>Two-factor authentication is a crucial tool for helping protect merchants from unauthorized account access, typically by requiring a time-sensitive code during sign in. It is effective against various forms of phishing attacks, where malicious actors trick users into giving them login credentials. These threats are becoming increasingly sophisticated and are one of the most common causes of security breaches.<sup id="fnref:1"><a href="https://www.braintreepayments.com/blog/introducing-hardware-two-factor-authentication/#fn:1" rel="footnote">1</a></sup></p>
+
+<p>Traditional two-factor authentication methods, like SMS codes and authenticator apps, offer protection against basic types of phishing attacks. However, the generated codes can be vulnerable to interception. </p>
+
+<p>The protocol used by hardware tokens -- FIDO’s U2F in our case -- is designed to protect against malicious interception and is proven to be more effective than SMS codes and authenticator apps.<sup id="fnref:2"><a href="https://www.braintreepayments.com/blog/introducing-hardware-two-factor-authentication/#fn:2" rel="footnote">2</a></sup> All merchants are encouraged to enable H2FA to speed up the login process and increase protection against phishing. </p>
+
+<h2 id="thesecuritykey">The security key</h2>
+
+<p>H2FA security keys can have many forms, including thumbdrive-like plugins, fingerprint readers, browser-supported Android devices, and Touch Bar enabled Apple devices.</p>
+
+<p><img src="https://www.braintreepayments.com/blog/content/images/2019/08/2fa-key.jpg" alt="Introducing Hardware Two-Factor Authentication"></p>
+
+<p>When a user activates H2FA, the specific key used is linked to their user account. On subsequent logins, the user will be prompted to insert and activate their security key, which will then generate a secure code for authenticating the user. This fast, easy authentication method doesn’t require the user to open an app or check their phone for a text – just plug in your key and go!</p>
+
+<h2 id="enablingh2fainyouraccount">Enabling H2FA in your account</h2>
+
+<p><img src="https://www.braintreepayments.com/blog/content/images/2019/08/2019-08-21-10.52.50.gif" alt="Introducing Hardware Two-Factor Authentication"></p>
+
+<p>For instructions on how to use hardware 2FA and log in with your key, see our <a href="https://articles.braintreepayments.com/risk-and-security/control-panel-security/two-factor-authentication#setting-up-a-hardware-security-key">2FA documentation</a>.</p>
+
+<h2 id="relatedresources">Related resources</h2>
+
+<p>For more information about FIDO standards, check out The FIDO Alliance’s <a href="https://fidoalliance.org/how-fido-works/">documentation</a> and <a href="https://www.w3.org/2019/03/pressrelease-webauthn-rec.html.en">press release</a>. If you’re interested in learning more about the effectiveness of H2FA against account takeover, read more in this <a href="https://storage.googleapis.com/pub-tools-public-publication-data/pdf/ab2bedf04f6d4ff60c59b502809c2f151373de54.pdf">2019 study</a>.</p>
+
+<h2 id="questions">Questions?</h2>
+
+<p>To learn more about the support of hardware two-factor authentication, <a href="https://help.braintreepayments.com/">contact us</a>. </p>
+
+<div class="footnotes"><ol><li class="footnote" id="fn:1"><p><a href="https://www.gov.uk/government/statistics/cyber-security-breaches-survey-2019">Cyber Security Breaches Study 2019</a>, GOV.UK, April 2019. <a href="https://www.braintreepayments.com/blog/introducing-hardware-two-factor-authentication/#fnref:1" title="return to article">↩</a></p></li>
+<li class="footnote" id="fn:2"><p><a href="https://security.googleblog.com/2019/05/new-research-how-effective-is-basic.html">New research: How effective is basic account hygiene at preventing hijacking</a>, Google, May 2019. <a href="https://www.braintreepayments.com/blog/introducing-hardware-two-factor-authentication/#fnref:2" title="return to article">↩</a></p></li></ol></div> SCA Cheatsheet: Affected Countries and Enforcement TimelinesUnderstanding if, when, and how Strong Customer Authentication (SCA) applies to your business can be confusing. Our cheat sheet can help. https://www.braintreepayments.com/blog/sca-cheatsheet/837c2857-b1f7-4cb7-971f-b4758a8fe326Products + Design_BraintreeFri, 23 Aug 2019 17:25:12 GMT<img src="http://www.braintreepayments.com/blog/content/images/2019/08/sca-cheatsheet.png" alt="SCA Cheatsheet: Affected Countries and Enforcement Timelines"><p><em>Updated (October 17, 2019): The EBA has published its opinion on the deadline and process for completing the migration to SCA. The new enforcement deadline is December 31, 2020. See below for details on this official transition period.</em></p>
+
+<p><em>Updated (September 14, 2019): SCA requirements have gone into effect in Europe. Braintree is actively monitoring bank activity.</em> </p>
+
+<p><em>Updated (September 10, 2019): Croatia, Cyprus, Czech Republic, Estonia, Finland, Hungary, Lithuania, Luxembourg, Portugal, Slovakia, Slovenia, Spain, and Sweden have been added to the list of countries that confirmed their views in favor of a transition period.</em></p>
+
+<p><em>Updated (August 30, 2019): Belgium, Greece, Ireland, Malta, and Norway have been added to the list of countries that officially confirmed their views in favor of a transition period.</em></p>
+
+<p>Understanding if, when, and how Strong Customer Authentication (SCA) applies to your business can be confusing -- especially with all the rumors circulating and changes being announced by the European Banking Authority (EBA) and national regulators. </p>
+
+<p>As the commerce platform for large and fast-growing enterprises that are building the most innovative commerce experiences globally, Braintree is committed to keeping you informed about the latest news and information regarding SCA requirements.  </p>
+
+<h2 id="inwhichcaseswillscaapply">In which cases will SCA apply?</h2>
+
+<p>The way SCA will need to be applied will vary by transaction. It will depend on both the location of your acquiring bank and the location of the bank that issued your customer’s credit card -- not necessarily where your business is domiciled. Please refer to <a href="https://www.braintreepayments.com/resources/psd2-strong-customer-authentication-explained#in-what-cases-will-sca-apply">this list</a> to see which countries are affected by SCA requirements. </p>
+
+<h2 id="whatarethemostrecentannouncementsregardingscaenforcementtimelines">What are the most recent announcements regarding SCA enforcement timelines?</h2>
+
+<p>The EBA, working in partnership with payment service providers, acquirers, issuers, merchants, and the payment networks, <a href="https://eba.europa.eu/-/eba-publishes-opinion-on-the-deadline-and-process-for-completing-the-migration-to-strong-customer-authentication-sca-for-e-commerce-card-based-payment">published its opinion</a> on the deadline and process for completing the migration to SCA. The new date that the requirements will begin to be enforced is December 31, 2020. It’s important to note that individual issuers may begin to enforce SCA requirements at any time within this official transition period, leaving unprepared merchants at risk of increased declines. </p>
+
+<h2 id="whatdoineedtodo">What do I need to do?</h2>
+
+<p>As ever, Braintree strongly recommends you integrate and test our <a href="https://www.braintreepayments.com/features/3d-secure">3D Secure 2</a> (3DS2) solution as soon as possible to help reduce the risk of SCA-related declines if and when issuers begin to enforce the requirements. </p>
+
+<h2 id="whatelsedoineedtoknow">What else do I need to know?</h2>
+
+<p>Braintree’s flexible 3DS2 solution has been built to support both 3D Secure 1 and 2 authentication protocols. That means if issuers aren’t ready for 3DS2, Braintree will automatically divert your transactions to 3DS1 to help ensure your transactions are SCA compliant.  </p>
+
+<h2 id="wherecanilearnmore">Where can I learn more?</h2>
+
+<p>For instructions on how to integrate, refer to our <a href="https://developers.braintreepayments.com/guides/3d-secure/overview">3D Secure developer docs</a>. </p>
+
+<p>If you have already integrated 3DS, make sure you have the latest SDK with the most up-to-date features. For details, refer to our <a href="https://developers.braintreepayments.com/guides/3d-secure/migration/javascript/v3">3DS2 migration guide</a>.</p>
+
+<p>To see how SCA will apply to different transaction types, including recurring transactions, read <a href="https://www.braintreepayments.com/resources/how-sca-applies-to-common-payment-scenarios">How SCA Applies to Common Payment Scenarios</a>. </p>
+
+<p>If you are still unclear about the details of SCA, or would like an overview on the mandate and its requirements, read <a href="https://www.braintreepayments.com/resources/psd2-strong-customer-authentication-explained">PSD2: Strong Customer Authentication Explained</a>. </p>
+
+<p>For more information on the background and benefits of the 3DS2 protocol, as well as how Braintree’s solution works, read <a href="https://www.braintreepayments.com/resources/what-is-3d-secure-2">3D Secure 2: Next-generation Authentication</a>.</p>
+
+<p>As always, we’re here to help. If you have questions or need help with your integration, <a href="https://help.braintreepayments.com/?issue=PSD2Help">contact us</a>.</p> Changes to Client Tokens Are ComingBraintree will soon be changing the system we use for client tokens. Read our blog to learn more. https://www.braintreepayments.com/blog/changes-to-client-tokens-are-coming/0c6886a3-47d7-495c-b5a0-8c369b284346Products + Design_Joshua KnoxMon, 05 Aug 2019 21:00:11 GMT<img src="http://www.braintreepayments.com/blog/content/images/2019/08/blog-client-tokens2.jpg" alt="Changes to Client Tokens Are Coming"><p><em>Update (December 3, 2019): Updated production roll out date.</em></p>
+
+<p><em>Update (November 21, 2019): Added detail around changing token length.</em></p>
+
+<p><em>Update (August 7, 2019): Since posting this we have received a number of support requests about how this change will affect subscription billing or vaulted payment methods. We want to make clear that this change applies only to <mark>client</mark> tokens, meaning the tokens used to authorize clients such as browsers and mobile apps. This change will not affect any vaulted payment method or recurring billing.</em></p>
+
+<p>Braintree merchants currently have two different ways to collect payment information through clients (mobile devices, web pages, etc.): <a href="https://developers.braintreepayments.com/guides/authorization/overview">tokenization keys and client tokens</a>. To help improve performance and increase security, we will soon be changing the system we use for client tokens. </p>
+
+<h2 id="whatschanging">What’s changing?</h2>
+
+<p>In the new system, Braintree will be issuing <a href="https://tools.ietf.org/html/rfc7519">JSON web tokens (JWTs)</a> as a replacement for the current <a href="https://developers.braintreepayments.com/guides/authorization/client-token">authorization fingerprint implementation</a>. Our client tokens have always been defined as single use, and this change will enforce a 24-hour lifespan. That means client tokens issued after the change is implemented will expire after 24 hours, and attempts to use an expired token will result in an error. While the change is backwards-compatible and transparent for most, some merchants may have to update their integration to be fully compatible with the new system. If you’re unsure about compatibility, you can test against it now in our <a href="https://sandbox.braintreegateway.com/login?">sandbox environment</a>. </p>
+
+<h2 id="whenwillthechangestakeplace">When will the changes take place?</h2>
+
+<p>We plan to roll out this change to 100% of merchants in production on January 6, 2020.</p>
+
+<h2 id="whyarewemakingthesechanges">Why are we making these changes?</h2>
+
+<p>With the impending regulatory mandate for <a href="https://www.braintreepayments.com/blog/getting-up-to-speed-on-psd2-regulation-2/">PSD2: Strong Customer Authentication</a> (SCA)  in Europe taking effect in September 2019, and the gradual move toward SCA globally, we anticipate that the relative usage of client tokens will continue to increase over the next few years. We confidently base this assumption on the fact that 3D Secure 2, the industry-standard authentication solution for SCA -- and the one <a href="https://www.braintreepayments.com/features/3d-secure">Braintree is suggesting</a> our merchants adopt in order to be SCA-ready -- is only <a href="https://developers.braintreepayments.com/guides/authorization/overview#capabilities">supported by client tokens</a>. As the payments platform solution for the large and fast-growing enterprises that are building the most innovative commerce experiences globally, we felt this was the right time to optimize the way they collect payment information. </p>
+
+<h2 id="whatisthebenefitformerchants">What is the benefit for merchants?</h2>
+
+<p>For our merchants -- regardless of whether or not they are required to meet SCA requirements -- this change has the benefit of reducing the peak latency of collecting client-side payment information. That should mean faster checkouts, fewer timeouts, and potentially an increase in revenue. Merchants will also have clearer visibility into exactly when a token expires and when a new one is required, helping to reduce accidental errors that could negatively affect conversion.</p>
+
+<h2 id="whatactionisrequired">What action is required?</h2>
+
+<p>This change is backwards-compatible, and no action is required for most integrations. Integrations that rely on client tokens remaining valid for longer than 24 hours will need to be updated to ensure that clients are using tokens generated within the last 24 hours. In addition, minor changes in length of the token will occur. If you believe your systems may be affected by this, we recommend testing these changes in sandbox. If you have any questions, <a href="https://help.braintreepayments.com/?issue=HelpIntegration">contact us</a>.</p> Braintree’s Google Pay Integration Now Offers Option to Pay with PayPal in More CountriesWe are excited to announce the option to pay with PayPal in Google Pay in all 24 countries where the wallets can currently be linked. https://www.braintreepayments.com/blog/braintree-google-pay-integration-now-offers-option-to-pay-with-paypal-in-more-countries/ce8841b5-2bdf-477f-9f0f-88c09ff61443News + Events_BraintreeTue, 18 Jun 2019 17:06:08 GMT<img src="http://www.braintreepayments.com/blog/content/images/2019/06/blog_image_PayPal_GooglePay_o2.jpg" alt="Braintree’s Google Pay Integration Now Offers Option to Pay with PayPal in More Countries"><p><a href="https://www.paypal.com/stories/us/enabling-more-mobile-payments-in-partnership-with-google">A little over two years ago</a>, PayPal and Google partnered to allow consumers in 24 countries around the world to link their PayPal and Google Pay accounts. The collaboration has helped to expand consumer choice by offering PayPal -- one of the most trusted<sup id="fnref:1"><a href="https://www.braintreepayments.com/blog/braintree-google-pay-integration-now-offers-option-to-pay-with-paypal-in-more-countries/#fn:1" rel="footnote">1</a></sup> and highest converting<sup id="fnref:2"><a href="https://www.braintreepayments.com/blog/braintree-google-pay-integration-now-offers-option-to-pay-with-paypal-in-more-countries/#fn:2" rel="footnote">2</a></sup> digital wallets -- as a payment option within Google services. It also extended the availability of features such as <a href="https://www.paypal.com/us/webapps/mpp/paypal-safety-and-security">PayPal Purchase Protection</a> and <a href="https://www.paypal.com/us/webapps/mpp/returns">Return Shipping</a> for eligible purchases to Google Pay users. </p>
+
+<p>Google Pay gives customers a fast, simple way to pay on the web across all browsers and operating systems, in native Android apps, and in stores -- driving incremental transactions for merchants and a convenient experience for their customers. Hundreds of Braintree merchants already benefit from the Braintree integration of PayPal in Google Pay in the US. Today, we are excited to announce a new back-end change that extends the possibility to pay with PayPal in Google Pay in all 24 countries where the wallets can be linked. </p>
+
+<h2 id="paypalsellerprotectionbenefits">PayPal Seller Protection benefits</h2>
+
+<p>In addition to the ability to offer added convenience and choice to their customers, Braintree merchants will also be able to reduce risk on eligible transactions with <a href="https://www.paypal.com/us/webapps/mpp/security/seller-protection">PayPal Seller Protection</a>. In the event of a claim or chargeback that the buyer claims are the result of an unauthorized transaction or an item the buyer didn't receive, PayPal will cover the full amount on eligible transactions for merchants when consumers check out with PayPal via Google Pay. PayPal will not assess you a chargeback fee if the transaction is <a href="https://www.paypal.com/us/webapps/mpp/ua/useragreement-full">eligible</a> for PayPal Seller Protection. </p>
+
+<h2 id="additionaloperationalinsight">Additional operational insight</h2>
+
+<p>With the new transaction flow, the Braintree Control Panel will now include the PayPal Account as the Payment Type, and Google will appear as the Transaction Channel.</p>
+
+<p><img src="https://www.braintreepayments.com/blog/content/images/2019/06/Screen-Shot-2019-06-13-at-9.42.14-AM.png" alt="Braintree’s Google Pay Integration Now Offers Option to Pay with PayPal in More Countries"></p>
+
+<p>To find PayPal transactions from the Google Pay wallet, choose "PayPal" as the "Payment Instrument Type" and "Google" as the "Payment Method Source" in the new selection of filters for transaction search in the Control Panel.</p>
+
+<p><img src="https://www.braintreepayments.com/blog/content/images/2019/06/Screen-Shot-2019-06-13-at-12.00.24-PM.png" alt="Braintree’s Google Pay Integration Now Offers Option to Pay with PayPal in More Countries"></p>
+
+<h2 id="enablinggooglepaypaypal">Enabling Google Pay + PayPal</h2>
+
+<p>Merchants that already offer Google Pay and PayPal at checkout can get access to the new benefits by simply updating their SDK to our latest version. New merchants making their first integration will be able to offer PayPal to millions of Google Pay users globally as well as get access to PayPal Seller Protection by enabling Google Pay in their Control Panel. Here is the Google Pay switch toggled “ON” in the Braintree Control Panel:</p>
+
+<p><img src="https://www.braintreepayments.com/blog/content/images/2019/06/image1-1.png" alt="Braintree’s Google Pay Integration Now Offers Option to Pay with PayPal in More Countries"></p>
+
+<div class="footnotes"><ol><li class="footnote" id="fn:1"><p>Kelton Research as commissioned by PayPal, online survey administered to 2,115 Americans aged 18+, June 2018. <a href="https://www.braintreepayments.com/blog/braintree-google-pay-integration-now-offers-option-to-pay-with-paypal-in-more-countries/#fnref:1" title="return to article">↩</a></p></li>
+<li class="footnote" id="fn:2"><p>comScore Study of Large merchant Checkouts, April 2018. <a href="https://www.braintreepayments.com/blog/braintree-google-pay-integration-now-offers-option-to-pay-with-paypal-in-more-countries/#fnref:2" title="return to article">↩</a></p></li></ol></div>
